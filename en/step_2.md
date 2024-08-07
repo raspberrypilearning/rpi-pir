@@ -8,9 +8,24 @@ The pulse emitted when a PIR detects motion needs to be amplified, and so it nee
 
 ![A digital illustration of a Raspberry Pi board connected to a PIR (Passive Infrared) sensor module. The Raspberry Pi, depicted in green, features various ports and a GPIO (General Purpose Input/Output) header. Three wires (blue, red, and black) connect the GPIO pins on the Raspberry Pi to the corresponding pins on the PIR sensor, which is shown to the right of the board with its white, dome-shaped cover.](images/pir_wiring.png)
 
-1. As shown above, the **Vcc** pin needs to be attached to a **5V** pin on the Raspberry Pi.
-1. The **Gnd** pin on the PIR sensor can be attached to **any** ground pin on the Raspberry Pi.
-1. Lastly, the **Out** pin needs to be connected to **any** of the GPIO pins.
+--- task ---
+
+Connect the **Vcc** pin needs to a **5V** pin on the Raspberry Pi.
+
+--- /task ---
+
+--- task ---
+
+Connect the **Gnd** pin on the PIR sensor to **any** ground pin on the Raspberry Pi.
+
+--- /task ---
+
+--- task ---
+
+Lastly, the **Out** pin needs to be connected to **any** of the GPIO pins.
+
+--- /task ---
+
 
 ### Tuning a PIR
 
