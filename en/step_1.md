@@ -1,59 +1,17 @@
-## Introduction
+## Passive Infra-Red (PIR) Motion Sensors 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
 
-### What you will make
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+    </iframe>
+  </div>
+</html>
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+**TODO: YOUTUBE URL**
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+PIR (Passive Infrared) motion sensors are electronic devices that detect motion by measuring infrared light radiating from objects in their field of view. PIR motion sensors can be used to sense movement and trigger various actions in your projects.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+PIR sensors are designed to detect changes in the amount of infrared radiation. When an object, such as a person or animal, enters the sensor's range, the sensor detects the change and sends a signal to the connected GPIO pin on the Raspberry Pi. This signal can be used to perform tasks like turning on lights, activating alarms, or starting a recording.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+The key advantage of PIR motion sensors is their simplicity and effectiveness in detecting movement without requiring a direct line of sight. They are widely used in security systems, automatic lighting, and various interactive applications.
