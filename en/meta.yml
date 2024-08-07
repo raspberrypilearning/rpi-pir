@@ -1,11 +1,11 @@
-title: default-project-template
+title: Raspberry Pi - Motion Sensor
 hero_image: images/banner.png
-description: default-project-template description
+description: Connect a passive infrared motion sensor to your Raspberry Pi!
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Passive Infra-Red (PIR) Motion Sensors
+  - title: Passive Infra-red (PIR) Motion Sensors
   - title: Detect motion with a PIR
   - title: What next?

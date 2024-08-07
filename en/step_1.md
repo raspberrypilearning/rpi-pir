@@ -1,4 +1,4 @@
-## Passive Infra-Red (PIR) Motion Sensors 
+## Passive Infra-red (PIR) motion sensors 
 
 
 <html>
