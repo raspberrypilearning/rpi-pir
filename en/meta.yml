@@ -7,5 +7,11 @@ copyedit: false
 last_tested: "2022-05-19"
 steps:
   - title: Passive Infra-red (PIR) Motion Sensors
+    completion:
+    - engaged
   - title: Detect motion with a PIR
-  - title: What next?
+    completion:
+    - internal
+ - title: What can you do now?
+    completion:
+    - external
