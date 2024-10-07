@@ -1,22 +1,6 @@
 ## Passive Infra-red (PIR) motion sensors 
 
-
-<html>
-  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/2NQBB9lIjn0?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-    </iframe>
-  </div>
-</html>
-
---- collapse ---
----
-title: No YouTube? Download the video!
----
-
-You can download all the resources for this project, including the above video [by clicking here](https://rpf.io/p/en/rpi-pir-go){:target="_blank"}. 
-
-
---- /collapse ---
+![Illustration of a PIR (Passive Infrared) sensor module with a white dome on a green circuit board, showing three pins underneath.](images/pir_module.png)
 
 PIR (Passive Infrared) motion sensors are electronic devices that detect motion by measuring infrared light radiating from objects in their field of view. PIR motion sensors can be used to sense movement and trigger various actions in your projects.
 
